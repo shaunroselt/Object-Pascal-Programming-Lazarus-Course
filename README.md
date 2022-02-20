@@ -1,1 +1,1 @@
-# Object-Pascal-Programming-Lazarus-Course
+# Object Pascal Programming (Lazarus) Course
